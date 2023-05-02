@@ -4,3 +4,6 @@ Repository for assignments for Statistichal Techniques course
 Innopolis, Russia
 
 Spring 2023
+
+
+(gifs/SA_fast.gif)
