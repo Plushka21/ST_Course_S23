@@ -13,7 +13,7 @@ Spring 2023
 
 ### Simulated Annealing with cooling ratio **0.9**
 <p align = "center">
-  <img src = "gifs/SA_mid.gif">
+  <img src = "gifs/SA_middle.gif">
 </p>
 
 ### Simulated Annealing with cooling ratio **0.99**
