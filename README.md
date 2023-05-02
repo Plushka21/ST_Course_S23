@@ -6,6 +6,11 @@ Innopolis, Russia
 Spring 2023
 
 ## Results of Assignment 2
+### Initial random path
+<p align = "center">
+  <img src = "gifs/init_path.png">
+</p>
+
 ### Simulated Annealing with cooling ratio **0.8**
 <p align = "center">
   <img src = "gifs/SA_fast.gif">
