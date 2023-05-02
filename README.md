@@ -6,4 +6,6 @@ Innopolis, Russia
 Spring 2023
 
 
-(gifs/SA_fast.gif)
+<p align = "center">
+  <img src = "gifs/SA_fast.gif" height = "240px" style="margin:10px 10px">
+</p>
