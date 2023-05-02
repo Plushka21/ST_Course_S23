@@ -7,5 +7,5 @@ Spring 2023
 
 
 <p align = "center">
-  <img src = "gifs/SA_fast.gif" height = "240px" style="margin:10px 10px">
+  <img src = "gifs/SA_fast.gif">
 </p>
